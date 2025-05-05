@@ -1,6 +1,6 @@
 import sys
 from PyQt5.QtWidgets import QApplication, QDialog
-from test2 import Ui_Dialog  # Import your generated UI class
+from ui import Ui_Dialog  # Import your generated UI class
 import google.generativeai as ai
 
 # Configure the API
